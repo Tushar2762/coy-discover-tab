@@ -1,0 +1,402 @@
+[
+  {
+    "id": "p1",
+    "name": "Aarohi Sharma",
+    "gender": "female",
+    "age": 21,
+    "bio": "Design student who survives on iced coffee and late-night playlists.",
+    "cityOrCollege": "NMIMS, Mumbai",
+    "interests": ["UI/UX", "Indie Music", "Coffee", "Photography"],
+    "likedUser": true
+  },
+  {
+    "id": "p2",
+    "name": "Kabir Verma",
+    "gender": "male",
+    "age": 22,
+    "bio": "Building side projects by day, hunting for the best vada pav by night.",
+    "cityOrCollege": "IIT Bombay",
+    "interests": ["Startups", "Cricket", "Street Food", "Running"],
+    "likedUser": false
+  },
+  {
+    "id": "p3",
+    "name": "Ananya Iyer",
+    "gender": "female",
+    "age": 20,
+    "bio": "Bookworm, classical dancer, and always down for a Marine Drive walk.",
+    "cityOrCollege": "St. Xavier's College",
+    "interests": ["Reading", "Dance", "Sunset Walks", "Cinema"],
+    "likedUser": true
+  },
+  {
+    "id": "p4",
+    "name": "Rohan Kulkarni",
+    "gender": "male",
+    "age": 23,
+    "bio": "Full-stack dev & weekend trekker. Looking for someone to share fries with.",
+    "cityOrCollege": "Pune",
+    "interests": ["Trekking", "Gaming", "Coding", "Travel"],
+    "likedUser": false
+  },
+  {
+    "id": "p5",
+    "name": "Meera Nair",
+    "gender": "female",
+    "age": 21,
+    "bio": "Psychology major. I will probably analyze your Spotify Wrapped.",
+    "cityOrCollege": "Christ University, Bengaluru",
+    "interests": ["Psychology", "Podcasts", "Painting", "Cats"],
+    "likedUser": true
+  },
+  {
+    "id": "p6",
+    "name": "Siddharth Malhotra",
+    "gender": "male",
+    "age": 22,
+    "bio": "Guitarist in a college band. Tell me your favorite Bollywood song.",
+    "cityOrCollege": "Delhi University",
+    "interests": ["Guitar", "Concerts", "Football", "Cooking"],
+    "likedUser": false
+  },
+  {
+    "id": "p7",
+    "name": "Diya Patel",
+    "gender": "female",
+    "age": 20,
+    "bio": "Fashion tech enthusiast and certified chocoholic.",
+    "cityOrCollege": "NIFT, Mumbai",
+    "interests": ["Fashion", "Baking", "Reels", "Art Galleries"],
+    "likedUser": true
+  },
+  {
+    "id": "p8",
+    "name": "Arjun Deshmukh",
+    "gender": "male",
+    "age": 23,
+    "bio": "Finance nerd who loves stand-up comedy and F1 Sundays.",
+    "cityOrCollege": "Gurgaon",
+    "interests": ["Formula 1", "Stand-up Comedy", "Investing", "Gym"],
+    "likedUser": false
+  },
+  {
+    "id": "p9",
+    "name": "Sneha Joshi",
+    "gender": "female",
+    "age": 21,
+    "bio": "Architecture student. Always noticing cool buildings and cute dogs.",
+    "cityOrCollege": "SPA, Delhi",
+    "interests": ["Architecture", "Dogs", "Sketching", "Chai"],
+    "likedUser": true
+  },
+  {
+    "id": "p10",
+    "name": "Vikramaditya Rao",
+    "gender": "male",
+    "age": 22,
+    "bio": "Part-time photographer, full-time biryani critic.",
+    "cityOrCollege": "Hyderabad",
+    "interests": ["Photography", "Biryani", "Badminton", "Movies"],
+    "likedUser": false
+  },
+  {
+    "id": "p11",
+    "name": "Kavya Menon",
+    "gender": "female",
+    "age": 21,
+    "bio": "Trying to visit every cozy bookstore in town.",
+    "cityOrCollege": "Fergusson College, Pune",
+    "interests": ["Literature", "Journaling", "Yoga", "Cafes"],
+    "likedUser": true
+  },
+  {
+    "id": "p12",
+    "name": "Aditya Singh",
+    "gender": "male",
+    "age": 22,
+    "bio": "CS undergrad. Ask me about hackathons or sci-fi movies.",
+    "cityOrCollege": "VIT, Vellore",
+    "interests": ["Hackathons", "Sci-Fi", "Chess", "Table Tennis"],
+    "likedUser": false
+  },
+  {
+    "id": "p13",
+    "name": "Riya Kapoor",
+    "gender": "female",
+    "age": 20,
+    "bio": "Marketing intern with way too many plants in my room.",
+    "cityOrCollege": "Gurgaon",
+    "interests": ["Plants", "Marketing", "Pilates", "Sushi"],
+    "likedUser": true
+  },
+  {
+    "id": "p14",
+    "name": "Pranav Nair",
+    "gender": "male",
+    "age": 23,
+    "bio": "Product designer who loves minimalist aesthetics and long drives.",
+    "cityOrCollege": "Bengaluru",
+    "interests": ["Product Design", "Road Trips", "Swimming", "Jazz"],
+    "likedUser": false
+  },
+  {
+    "id": "p15",
+    "name": "Ishita Bansal",
+    "gender": "female",
+    "age": 21,
+    "bio": "Debater, drama club member, and momo enthusiast.",
+    "cityOrCollege": "Ashoka University",
+    "interests": ["Theatre", "Debating", "Momos", "Poetry"],
+    "likedUser": true
+  },
+  {
+    "id": "p16",
+    "name": "Devansh Gupta",
+    "gender": "male",
+    "age": 22,
+    "bio": "Data science student. Let's grab cold brew and talk about tech.",
+    "cityOrCollege": "BITS Pilani",
+    "interests": ["AI/ML", "Cold Brew", "Basketball", "Anime"],
+    "likedUser": false
+  },
+  {
+    "id": "p17",
+    "name": "Tanya Chawla",
+    "gender": "female",
+    "age": 21,
+    "bio": "Food blogger exploring hidden gems across NCR.",
+    "cityOrCollege": "Noida",
+    "interests": ["Food Blogging", "Travel", "Zumba", "Thrifting"],
+    "likedUser": true
+  },
+  {
+    "id": "p18",
+    "name": "Nikhil Shetty",
+    "gender": "male",
+    "age": 23,
+    "bio": "Sound engineer and vinyl collector.",
+    "cityOrCollege": "Mumbai",
+    "interests": ["Music Production", "Vinyls", "Surfing", "Documentaries"],
+    "likedUser": false
+  },
+  {
+    "id": "p19",
+    "name": "Pooja Hegde",
+    "gender": "female",
+    "age": 20,
+    "bio": "Biotech student who loves stargazing and board games.",
+    "cityOrCollege": "Manipal",
+    "interests": ["Astronomy", "Board Games", "Cycling", "Baking"],
+    "likedUser": true
+  },
+  {
+    "id": "p20",
+    "name": "Karan Mehta",
+    "gender": "male",
+    "age": 22,
+    "bio": "Always training for my next half-marathon.",
+    "cityOrCollege": "Ahmedabad",
+    "interests": ["Marathons", "Fitness", "Podcasts", "Gujarati Snacks"],
+    "likedUser": false
+  },
+  {
+    "id": "p21",
+    "name": "Nandini Bose",
+    "gender": "female",
+    "age": 21,
+    "bio": "Film studies major. Tell me your top 4 Letterboxd movies.",
+    "cityOrCollege": "Jadavpur University, Kolkata",
+    "interests": ["Filmmaking", "Letterboxd", "Art", "Puchka"],
+    "likedUser": true
+  },
+  {
+    "id": "p22",
+    "name": "Harshvardhan Patil",
+    "gender": "male",
+    "age": 22,
+    "bio": "Mechanical engineer building EV prototypes.",
+    "cityOrCollege": "COEP, Pune",
+    "interests": ["Automobiles", "Robotics", "Hiking", "Cricket"],
+    "likedUser": false
+  },
+  {
+    "id": "p23",
+    "name": "Simran Kaur",
+    "gender": "female",
+    "age": 21,
+    "bio": "Law student who enjoys pottery weekends and Punjabi pop.",
+    "cityOrCollege": "Symbiosis, Pune",
+    "interests": ["Pottery", "Law", "Music", "Brunch"],
+    "likedUser": true
+  },
+  {
+    "id": "p24",
+    "name": "Yash Agarwal",
+    "gender": "male",
+    "age": 23,
+    "bio": "Consultant by weekdays, amateur chef by weekends.",
+    "cityOrCollege": "Gurgaon",
+    "interests": ["Cooking", "Tennis", "Travel", "Karaoke"],
+    "likedUser": false
+  },
+  {
+    "id": "p25",
+    "name": "Anushka Sen",
+    "gender": "female",
+    "age": 20,
+    "bio": "Illustrator sketching people on the metro.",
+    "cityOrCollege": "NID, Ahmedabad",
+    "interests": ["Illustration", "Comics", "Tea", "Museums"],
+    "likedUser": true
+  },
+  {
+    "id": "p26",
+    "name": "Rishabh Tiwari",
+    "gender": "male",
+    "age": 22,
+    "bio": "Open-source contributor and Linux geek.",
+    "cityOrCollege": "IIIT Hyderabad",
+    "interests": ["Open Source", "Linux", "Badminton", "Sci-Fi"],
+    "likedUser": false
+  },
+  {
+    "id": "p27",
+    "name": "Shreya Gokhale",
+    "gender": "female",
+    "age": 21,
+    "bio": "Classical vocalist learning lo-fi music production.",
+    "cityOrCollege": "Mumbai University",
+    "interests": ["Singing", "Lo-Fi", "Beach Walks", "Books"],
+    "likedUser": true
+  },
+  {
+    "id": "p28",
+    "name": "Varun Krishnan",
+    "gender": "male",
+    "age": 23,
+    "bio": "Astrophotography hobbyist chasing clear night skies.",
+    "cityOrCollege": "Chennai",
+    "interests": ["Astrophotography", "Filter Coffee", "Camping", "Chess"],
+    "likedUser": false
+  },
+  {
+    "id": "p29",
+    "name": "Zoya Siddiqui",
+    "gender": "female",
+    "age": 21,
+    "bio": "Journalism student obsessed with documentaries and street art.",
+    "cityOrCollege": "Jamia Millia Islamia, Delhi",
+    "interests": ["Journalism", "Street Art", "History", "Poetry"],
+    "likedUser": true
+  },
+  {
+    "id": "p30",
+    "name": "Omkar Sawant",
+    "gender": "male",
+    "age": 22,
+    "bio": "Game developer crafting 2D indie games in Unity.",
+    "cityOrCollege": "Navi Mumbai",
+    "interests": ["Game Dev", "Pixel Art", "Esports", "Vada Pav"],
+    "likedUser": false
+  },
+  {
+    "id": "p31",
+    "name": "Neha Deshpande",
+    "gender": "female",
+    "age": 22,
+    "bio": "Chartered Accountancy final student who loves weekend road trips.",
+    "cityOrCollege": "Pune",
+    "interests": ["Finance", "Road Trips", "Filter Coffee", "Thriller Novels"],
+    "likedUser": true
+  },
+  {
+    "id": "p32",
+    "name": "Atharva Jadhav",
+    "gender": "male",
+    "age": 21,
+    "bio": "AI enthusiast, badminton player, and huge Marvel fan.",
+    "cityOrCollege": "VJTI, Mumbai",
+    "interests": ["Artificial Intelligence", "Badminton", "Marvel", "Cycling"],
+    "likedUser": false
+  },
+  {
+    "id": "p33",
+    "name": "Sanya Malhotra",
+    "gender": "female",
+    "age": 21,
+    "bio": "Content creator and skincare nerd. Always down for iced matcha.",
+    "cityOrCollege": "Chandigarh",
+    "interests": ["Content Creation", "Matcha", "Fashion", "Pilates"],
+    "likedUser": true
+  },
+  {
+    "id": "p34",
+    "name": "Tejas Chavan",
+    "gender": "male",
+    "age": 23,
+    "bio": "Cloud engineer who spends Sundays exploring Sahyadri forts.",
+    "cityOrCollege": "Thane",
+    "interests": ["Cloud Computing", "Fort Trekking", "Photography", "Misal Pav"],
+    "likedUser": false
+  },
+  {
+    "id": "p35",
+    "name": "Mrunal Kulkarni",
+    "gender": "female",
+    "age": 20,
+    "bio": "Literature student with a soft spot for indie films and rain.",
+    "cityOrCollege": "Sophia College, Mumbai",
+    "interests": ["Indie Films", "Writing", "Monsoon", "Art"],
+    "likedUser": true
+  },
+  {
+    "id": "p36",
+    "name": "Shubham More",
+    "gender": "male",
+    "age": 22,
+    "bio": "Backend developer by profession, street photographer by passion.",
+    "cityOrCollege": "Navi Mumbai",
+    "interests": ["Node.js", "Street Photography", "Cricket", "Music"],
+    "likedUser": false
+  },
+  {
+    "id": "p37",
+    "name": "Aditi Rao",
+    "gender": "female",
+    "age": 22,
+    "bio": "HR analyst who loves baking sourdough and visiting art cafes.",
+    "cityOrCollege": "Bengaluru",
+    "interests": ["Baking", "Cafes", "Yoga", "Podcasts"],
+    "likedUser": true
+  },
+  {
+    "id": "p38",
+    "name": "Saurabh Joshi",
+    "gender": "male",
+    "age": 23,
+    "bio": "Data analyst obsessed with cricket stats and classic rock.",
+    "cityOrCollege": "Indore",
+    "interests": ["Data Analytics", "Cricket", "Classic Rock", "Poha"],
+    "likedUser": false
+  },
+  {
+    "id": "p39",
+    "name": "Prachi Sharma",
+    "gender": "female",
+    "age": 21,
+    "bio": "Interior design student who loves thrift shopping and playlists.",
+    "cityOrCollege": "Jaipur",
+    "interests": ["Interior Design", "Thrifting", "Spotify", "Sketching"],
+    "likedUser": true
+  },
+  {
+    "id": "p40",
+    "name": "Kunal Gaikwad",
+    "gender": "male",
+    "age": 22,
+    "bio": "Cybersecurity student, ethical hacker, and late-night gamer.",
+    "cityOrCollege": "MIT, Pune",
+    "interests": ["Cybersecurity", "Valorant", "Football", "Tech"],
+    "likedUser": false
+  }
+]
